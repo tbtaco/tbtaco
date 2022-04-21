@@ -1,4 +1,4 @@
-Hi, my name is Tyer Richey.  I have a BS in Computer Engineering from K-State and minors in Physics and Computer Science.
+Hi, my name is Tyer Richey.  I have a Bachelor of Science in Computer Engineering and minors in Computer Science and Physics from Kansas State University.
 
 This is my personal Git where I'll be saving all of my future projects.  Feel free to look around.
 
